@@ -1,0 +1,11 @@
+streamlit>=1.24.0
+requests>=2.30.0
+beautifulsoup4>=4.12.0
+python-dateutil>=2.8.2
+plotly>=5.15.0
+pandas>=2.0.0
+langchain-openai>=0.1.0  # optional: LLM integration (GROQ API)
+spacy>=3.6.0  # optional but recommended for better NER
+feedparser>=6.0.10
+tqdm>=4.65.0
+python-dotenv
